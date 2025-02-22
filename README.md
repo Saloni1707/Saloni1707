@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Saloni
-- 🌱 I’m currently learning new technologies and a CS student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - saloniatolelnkd@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: If you have got any cool idea or project to work on I am always ready to collaborate
+Hi there, I'm Saloni ! 👋
+Welcome to my little corner of the internet, where I turn coffee ☕ into code and chaos into structured data!
+
+🚀 About Me
+- Always building, learning, and breaking things (intentionally, I swear!) 🛠️
+
+🌱 Currently Learning
+- How to debug without Stack Overflow (jk, that’s impossible) 😆
+
+📫 How to Reach Me
+📌GitHub: You're already here! 🙌
+📌Mail: saloniatolelnkd@gmail.com
 
 <!---
 Saloni1707/Saloni1707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
