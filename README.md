@@ -3,9 +3,9 @@ Welcome to my little corner of the internet, where I turn coffee ☕ into code a
 
 🚀 About Me 
 - Always building, learning, and breaking things (intentionally, I swear!) 🛠️
-🌱 Currently Learning
+- 🌱 Currently Learning
 - How to debug without Stack Overflow (jk, that’s impossible) 😆
-📫 How to Reach Me
+- 📫 How to Reach Me
 - GitHub: You're already here! 🙌
 - Mail: saloniatolelnkd@gmail.com
 
