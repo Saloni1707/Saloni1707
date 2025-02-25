@@ -1,12 +1,8 @@
 Hi there, I'm Saloni ! 👋
 Welcome to my little corner of the internet, where I turn coffee ☕ into code and chaos into structured data!
 
-🚀 About Me
-- Always building, learning, and breaking things (intentionally, I swear!) 🛠️
-
-🌱 Currently Learning
-- How to debug without Stack Overflow (jk, that’s impossible) 😆
-
+🚀 About Me - Always building, learning, and breaking things (intentionally, I swear!) 🛠️
+🌱 Currently Learning - How to debug without Stack Overflow (jk, that’s impossible) 😆
 📫 How to Reach Me
 -📌GitHub: You're already here! 🙌
 -📌Mail: saloniatolelnkd@gmail.com
