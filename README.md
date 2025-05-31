@@ -5,7 +5,7 @@ Welcome to my little corner of the internet, where I turn coffee ☕ into code a
 - Always building, learning, and breaking things (intentionally, I swear!) 🛠️
 - 📫 How to Reach Me
 - GitHub: You're already here! 🙌
-- Mail: saloniatolelnkd@gmail.com
+
 
 <!---
 Saloni1707/Saloni1707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
