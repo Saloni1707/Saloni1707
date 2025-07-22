@@ -5,6 +5,7 @@ Welcome to my little corner of the internet, where I turn coffee ☕ into code a
 - Always building, learning, and breaking things (intentionally!) 🛠️
 - 📫 How to Reach Me
 - GitHub: You're already here! 🙌
+- mail - saloni.talks.tech@gmail.com
 
 
 <!---
