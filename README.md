@@ -1,6 +1,6 @@
 H! I'm Saloni`:)`
 <br>
-Welcome to my virtual internet space !
+Welcome to my little corner of internet !
 <br>
 mail: saloni.talks.tech@gmail.com
 <br>
