@@ -2,7 +2,7 @@
 
 Hi! I'm Saloni :)
 
-Welcome to my little corner of the internet 
+Welcome to my little corner of the internet <br>
 saloni.talks.tech@gmail.com
 
 <br clear="left"/>
