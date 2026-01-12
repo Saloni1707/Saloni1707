@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="waves.jpg" width="180" alt="Saloni"/>
+</p>
+
+
 H! I'm Saloni`:)`
 <br>
 Welcome to my little corner of internet !
