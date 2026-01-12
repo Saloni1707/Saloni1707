@@ -1,4 +1,4 @@
-<img src="waves.jpeg" width="180" align="left" style="border-radius: 12px; margin-right: 20px;" />
+<img src="waves.jpeg" width="250" align="left" style="border-radius: 12px; margin-right: 20px;" />
 
 Hi! I'm Saloni :)
 
@@ -8,4 +8,4 @@ saloni.talks.tech@gmail.com
 <br clear="left"/>
 
 
-<p align="center"><i>p.s-be kind to everyone, we're all here for a while </i></p>
+<p align="left"><i>p.s-be kind to everyone, we're all here for a while </i></p>
