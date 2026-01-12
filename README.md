@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="waves.jpeg" height="200" width="100%" alt="Saloni"/>
+  <img src="waves.jpeg" width="180" alt="Saloni"/>
 </p>
 
 
