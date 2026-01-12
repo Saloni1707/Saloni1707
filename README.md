@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="waves.jpeg" width="160" style="border-radius: 12px;" />
+      <img src="waves.jpeg" width="160" />
     </td>
     <td>
       <h2>Hi! I'm Saloni :)</h2>
