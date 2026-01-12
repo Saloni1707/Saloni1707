@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="waves.jpeg" width="180" alt="Saloni"/>
 </p>
 
