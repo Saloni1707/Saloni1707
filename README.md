@@ -1,12 +1,13 @@
-<p align="left">
-  <img src="waves.jpeg" width="280" alt="Saloni"/>
-</p>
+<div style="display: flex; align-items: center; gap: 20px;">
 
+  <img src="waves.jpeg" width="160" style="border-radius: 12px;" />
 
-H! I'm Saloni`:)`
-<br>
-Welcome to my little corner of internet !
-<br>
-mail: saloni.talks.tech@gmail.com
-<br clear="left"/>
+  <div>
+    <h2>Hi! I'm Saloni :)</h2>
+    <p>
+      Welcome to my little corner of the internet ✨<br>
+      📧 saloni.talks.tech@gmail.com
+    </p>
+  </div>
 
+</div>
