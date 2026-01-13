@@ -8,4 +8,4 @@ mail: saloni.talks.tech@gmail.com
 <br clear="left"/>
 
 
-<p align="left"><i>p.s-be kind to everyone, we're all here for a while </i></p>
+<p align="left"><i>(p.s-be kind to everyone, we're all here for a while) </i></p>
