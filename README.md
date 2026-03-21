@@ -4,7 +4,7 @@ Hi! I'm Saloni :)
 
 Welcome to my little corner of the internet !!! <br>
 mail: saloni.talks.tech@gmail.com <br>
-Previously worked at [AlchemyAI](https://github.com/saloni-alchemystai)
+Previously worked at [AlchemystAI](https://github.com/saloni-alchemystai)
 <br clear="left"/>
 
 
